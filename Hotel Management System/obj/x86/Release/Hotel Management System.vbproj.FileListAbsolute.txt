@@ -1,0 +1,27 @@
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\bin\Release\Hotel Management System.exe
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\bin\Release\Hotel Management System.pdb
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\bin\Release\Hotel Management System.xml
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmMain.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmCheckTime.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmPaymentType_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmPaymentType_View.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmReminder_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmRoomMonitoring.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmCustomer_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmCustomer_View.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmLogBook.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmLogBook_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmLogin.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmRooms_View.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmRoomType_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmRoomType_View.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmRoom_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmUserAccount_Entry.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.frmUserAccount_View.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel_Management_System.Resources.resources
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel Management System.exe
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel Management System.xml
+C:\Users\Silver\Desktop\Hotel Management System\Hotel Management System\obj\x86\Release\Hotel Management System.pdb

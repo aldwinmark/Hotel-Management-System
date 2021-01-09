@@ -1,0 +1,220 @@
+D:\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+D:\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe
+D:\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.pdb
+D:\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.xml
+D:\Hotel Management System\Hotel Management System\bin\x64\Debug\log4net.dll
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmMain.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCheckTime.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCleaningRemarks_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDatabase.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_View.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReminder_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReportHeader.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomMonitoring.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_View.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogin.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRooms_View.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_View.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoom_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_Entry.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_View.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.Resources.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevRoomsLog.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmInvoice.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLog.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLogOccupied.resources
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.read.1.tlog
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.write.1.tlog
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+D:\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmMain.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCheckTime.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCleaningRemarks_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDatabase.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_View.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReminder_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReportHeader.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomMonitoring.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_View.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRooms_View.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_View.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoom_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_View.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.Resources.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevRoomsLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmInvoice.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLogOccupied.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.pdb
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.xml
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevSystemLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmSystemLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTaskLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmTaskLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTransaction.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmDailyTrans.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevAdvances.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmAdvancePayment_Entry.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmCleaningLog.resources
+C:\Users\silver\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDeletionAccess.resources
+C:\Users\Aldwin\Desktop\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+C:\Users\Aldwin\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+C:\Users\Aldwin\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+C:\Users\Aldwin\Desktop\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\bin\x64\Debug\Hotel Management System.exe
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\bin\x64\Debug\Hotel Management System.pdb
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\bin\x64\Debug\Hotel Management System.xml
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmMain.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmAdvancePayment_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCheckTime.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCleaningRemarks_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDatabase.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDeletionAccess.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReminder_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReportHeader.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomMonitoring.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRooms_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoom_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmShowReservations.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.Resources.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevAdvances.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTransaction.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevRoomsLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevSystemLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTaskLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmCleaningLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmDailyTrans.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmInvoice.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLogOccupied.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmSystemLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmTaskLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\updated Hotel\Hotel Management System(old)\Hotel Management System\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.pdb
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.xml
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmMain.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmAdvancePayment_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCheckTime.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCleaningRemarks_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDatabase.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDeletionAccess.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReminder_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReportHeader.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomMonitoring.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRooms_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoom_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmShowReservations.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_Entry.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_View.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.Resources.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevAdvances.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTransaction.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevRoomsLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevSystemLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTaskLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmCleaningLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmDailyTrans.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmInvoice.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLogOccupied.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmSystemLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmTaskLog.resources
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\updated Hotel\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevCashCount.resources
+D:\My Programs\Hotel Management System\Hotel Management System\bin\x64\Debug\Hotel Management System.exe.config
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.exe
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.xml
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.pdb
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmMain.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmAdvancePayment_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCheckTime.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCleaningRemarks_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDatabase.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmDeletionAccess.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPaymentType_View.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReminder_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmReportHeader.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomMonitoring.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmCustomer_View.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogBook_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmLogin.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRooms_View.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoomType_View.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmRoom_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmShowReservations.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_Entry.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmUserAccount_View.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.Resources.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevAdvances.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTransaction.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevRoomsLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevSystemLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevTaskLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.frmPrevCashCount.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmCleaningLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmDailyTrans.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmInvoice.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmRoomsLogOccupied.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmSystemLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel_Management_System.rptfrmTaskLog.resources
+D:\My Programs\Hotel Management System\Hotel Management System\obj\x64\Debug\Hotel Management System.vbproj.GenerateResource.Cache

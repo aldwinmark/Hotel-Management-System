@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2B936457-4723-4599-93FE-91B05B5E82B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hotel_Management_System.frmRoomMonitoring</StartupObject>
+    <RootNamespace>Hotel_Management_System</RootNamespace>
+    <AssemblyName>Hotel Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>Off</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Hotel.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>Hotel Management System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CRVsPackageLib, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmAdvancePayment_Entry.Designer.vb">
+      <DependentUpon>frmAdvancePayment_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmAdvancePayment_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCheckTime.Designer.vb">
+      <DependentUpon>frmCheckTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCheckTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCleaningRemarks_Entry.Designer.vb">
+      <DependentUpon>frmCleaningRemarks_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCleaningRemarks_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmDatabase.Designer.vb">
+      <DependentUpon>frmDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmDeletionAccess.Designer.vb">
+      <DependentUpon>frmDeletionAccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmDeletionAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmPaymentType_Entry.Designer.vb">
+      <DependentUpon>frmPaymentType_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmPaymentType_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmPaymentType_View.Designer.vb">
+      <DependentUpon>frmPaymentType_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmPaymentType_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmReminder_Entry.Designer.vb">
+      <DependentUpon>frmReminder_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmReminder_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmReportHeader.Designer.vb">
+      <DependentUpon>frmReportHeader.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmReportHeader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomMonitoring.Designer.vb">
+      <DependentUpon>frmRoomMonitoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomMonitoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCustomer_Entry.Designer.vb">
+      <DependentUpon>frmCustomer_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCustomer_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCustomer_View.Designer.vb">
+      <DependentUpon>frmCustomer_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmCustomer_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogBook.Designer.vb">
+      <DependentUpon>frmLogBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogBook_Entry.Designer.vb">
+      <DependentUpon>frmLogBook_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogBook_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRooms_View.Designer.vb">
+      <DependentUpon>frmRooms_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRooms_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomType_Entry.Designer.vb">
+      <DependentUpon>frmRoomType_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomType_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomType_View.Designer.vb">
+      <DependentUpon>frmRoomType_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoomType_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoom_Entry.Designer.vb">
+      <DependentUpon>frmRoom_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmRoom_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmShowReservations.Designer.vb">
+      <DependentUpon>frmShowReservations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmShowReservations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmUserAccount_Entry.Designer.vb">
+      <DependentUpon>frmUserAccount_Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmUserAccount_Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmUserAccount_View.Designer.vb">
+      <DependentUpon>frmUserAccount_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sub Forms\frmUserAccount_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Connection.vb" />
+    <Compile Include="Module\Functions.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptAdvanceMonthly.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptAdvanceMonthly.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptAdvances.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptAdvances.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptCashCount.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCashCount.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptCleaningLog.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCleaningLog.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptDailyTransaction.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptDailyTransaction.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptInvoice.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptMonthlyTrans.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptMonthlyTrans.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptRoomsLog.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptRoomsLog.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptRoomsLogOccupied.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptRoomsLogOccupied.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptSystemLog.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptSystemLog.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Crystal Report\crptTaskLog.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptTaskLog.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevAdvances.Designer.vb">
+      <DependentUpon>frmPrevAdvances.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevAdvances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevTransaction.Designer.vb">
+      <DependentUpon>frmPrevTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevRoomsLog.Designer.vb">
+      <DependentUpon>frmPrevRoomsLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevRoomsLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevSystemLog.Designer.vb">
+      <DependentUpon>frmPrevSystemLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevSystemLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevTaskLog.Designer.vb">
+      <DependentUpon>frmPrevTaskLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevTaskLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmPrevCashCount.Designer.vb">
+      <DependentUpon>frmPrevCashCount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmPrevCashCount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmCleaningLog.Designer.vb">
+      <DependentUpon>rptfrmCleaningLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmCleaningLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmDailyTrans.Designer.vb">
+      <DependentUpon>rptfrmDailyTrans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmDailyTrans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmInvoice.Designer.vb">
+      <DependentUpon>rptfrmInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmRoomsLog.Designer.vb">
+      <DependentUpon>rptfrmRoomsLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmRoomsLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmRoomsLogOccupied.Designer.vb">
+      <DependentUpon>rptfrmRoomsLogOccupied.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmRoomsLogOccupied.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmSystemLog.Designer.vb">
+      <DependentUpon>rptfrmSystemLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmSystemLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmTaskLog.Designer.vb">
+      <DependentUpon>rptfrmTaskLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Report Forms\rptfrmTaskLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmAdvancePayment_Entry.resx">
+      <DependentUpon>frmAdvancePayment_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmCheckTime.resx">
+      <DependentUpon>frmCheckTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmCleaningRemarks_Entry.resx">
+      <DependentUpon>frmCleaningRemarks_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmDatabase.resx">
+      <DependentUpon>frmDatabase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmDeletionAccess.resx">
+      <DependentUpon>frmDeletionAccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmPaymentType_Entry.resx">
+      <DependentUpon>frmPaymentType_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmPaymentType_View.resx">
+      <DependentUpon>frmPaymentType_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmReminder_Entry.resx">
+      <DependentUpon>frmReminder_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmReportHeader.resx">
+      <DependentUpon>frmReportHeader.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmRoomMonitoring.resx">
+      <DependentUpon>frmRoomMonitoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmCustomer_Entry.resx">
+      <DependentUpon>frmCustomer_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmCustomer_View.resx">
+      <DependentUpon>frmCustomer_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmLogBook.resx">
+      <DependentUpon>frmLogBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmLogBook_Entry.resx">
+      <DependentUpon>frmLogBook_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmRooms_View.resx">
+      <DependentUpon>frmRooms_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmRoomType_Entry.resx">
+      <DependentUpon>frmRoomType_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmRoomType_View.resx">
+      <DependentUpon>frmRoomType_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmRoom_Entry.resx">
+      <DependentUpon>frmRoom_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmShowReservations.resx">
+      <DependentUpon>frmShowReservations.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmUserAccount_Entry.resx">
+      <DependentUpon>frmUserAccount_Entry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sub Forms\frmUserAccount_View.resx">
+      <DependentUpon>frmUserAccount_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptAdvanceMonthly.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptAdvanceMonthly.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptAdvances.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptAdvances.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptCashCount.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCashCount.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptCleaningLog.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCleaningLog.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptDailyTransaction.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptDailyTransaction.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptInvoice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptInvoice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptMonthlyTrans.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptMonthlyTrans.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptRoomsLog.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptRoomsLog.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptRoomsLogOccupied.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptRoomsLogOccupied.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptSystemLog.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptSystemLog.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Crystal Report\crptTaskLog.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptTaskLog.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevAdvances.resx">
+      <DependentUpon>frmPrevAdvances.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevTransaction.resx">
+      <DependentUpon>frmPrevTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevRoomsLog.resx">
+      <DependentUpon>frmPrevRoomsLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevSystemLog.resx">
+      <DependentUpon>frmPrevSystemLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevTaskLog.resx">
+      <DependentUpon>frmPrevTaskLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmPrevCashCount.resx">
+      <DependentUpon>frmPrevCashCount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmCleaningLog.resx">
+      <DependentUpon>rptfrmCleaningLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmDailyTrans.resx">
+      <DependentUpon>rptfrmDailyTrans.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmInvoice.resx">
+      <DependentUpon>rptfrmInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmRoomsLog.resx">
+      <DependentUpon>rptfrmRoomsLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmRoomsLogOccupied.resx">
+      <DependentUpon>rptfrmRoomsLogOccupied.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmSystemLog.resx">
+      <DependentUpon>rptfrmSystemLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Report Forms\rptfrmTaskLog.resx">
+      <DependentUpon>rptfrmTaskLog.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\arrow_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\page_white_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\page_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designs\led-icons\find.png" />
+    <None Include="Designs\led-icons\user_silhouette.png" />
+    <None Include="Designs\led-icons\door_in.png" />
+    <None Include="Designs\led-icons\door.png" />
+    <None Include="Designs\led-icons\report.png" />
+    <None Include="Designs\led-icons\bullet_key.png" />
+    <None Include="Designs\led-icons\user_business_boss.png" />
+    <None Include="Designs\led-icons\package.png" />
+    <None Include="Designs\led-icons\money.png" />
+    <None Include="Designs\led-icons\counter_reset.png" />
+    <None Include="Designs\led-icons\compress.png" />
+    <None Include="Designs\led-icons\drive_disk.png" />
+    <None Include="Designs\led-icons\book_addresses.png" />
+    <Content Include="Hotel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
